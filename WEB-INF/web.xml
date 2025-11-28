@@ -1,4 +1,4 @@
-<web-qpp>
+<web-app>
     <servlet>
         <servlet-name>request</servlet-name>
         <servlet-class>GitInputServlet</servlet-class>
