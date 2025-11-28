@@ -6,6 +6,6 @@
 
     <servlet-mapping>
         <servlet-name>request</servlet-name>
-        <url-pattern>GitInputServlet</url-pattern>
+        <url-pattern>/GitInputServlet</url-pattern>
     </servlet-mapping>
 </web-app>
